@@ -1,0 +1,4 @@
+*** WooCommerce Free Shipping Plus Change Log ***
+
+2014.11.19 - version 0.1.0
+ * First Release
